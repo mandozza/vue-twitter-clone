@@ -1,0 +1,11 @@
+Here's is a list of things i would like to address next:
+  - [] add a followers store and display who the user is following.
+  - [] add a tweets store.
+  - [] add like functionality.
+  - [] add icons to the tweets.
+  - [] convert to tailwind css and add global styles.
+  - [] add global utility functions to the app clean up image loading.
+  - [] add footer component.
+  - [] rework tweets to have avatar.
+  - [] mark user cards for home page.
+  - [] add light and dark theme.
